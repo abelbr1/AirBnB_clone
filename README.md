@@ -13,7 +13,7 @@ create all classes used for AirBnB (User, State, City, Place…) that inherit fr
 create the first abstracted storage engine of the project: File storage.
 create all unittests to validate all our classes and storage engine
 
-The ALX-Holberton B&B sums up the implementation of my four months of studies at the ALX-Holberton School - the fullstack software engineering program. The goal of the project is to deploy a replica of the Airbnb Website using my server. The final version of this project will have:
+The goal of the project is to deploy a replica of the Airbnb Website using my server. The final version of this project will have:
 1. A command interpreter to manipulate data without a visual interface, like a shell (for development and debugging)
 1. A website (front-end) with static and dynamic functionalities
 1. A comprehensive database to manage the backend functionalities
@@ -97,7 +97,7 @@ This repository constains the following files:
 # Installation 
 Clone the repository and run the console.py
 
-> $ git clone https://github.com/auntyemman/AirBnB_clone.git
+> $ git clone https://github.com/abelbr1/AirBnB_clone.git
 ## Usage 
 |Method|	Description|
 |:-----:|:------------------:|
